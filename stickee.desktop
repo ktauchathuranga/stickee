@@ -1,0 +1,7 @@
+[Desktop Entry]
+Name=Stickee
+Exec=stickee
+Type=Application
+Terminal=false
+Categories=Utility;
+Icon=accessories-text-editor
