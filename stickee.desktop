@@ -1,7 +1,9 @@
 [Desktop Entry]
 Name=Stickee
+Comment=A simple sticky notes application for Arch Linux
 Exec=stickee
 Type=Application
 Terminal=false
 Categories=Utility;
 Icon=accessories-text-editor
+Keywords=notes;memo;reminders;

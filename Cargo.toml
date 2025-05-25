@@ -2,6 +2,12 @@
 name = "stickee"
 version = "0.0.1"
 edition = "2024"
+description = "A simple sticky notes application for Arch Linux"
+authors = ["Ashen Chathuranga ktauchathuranga@gmail.com"]
+license = "MIT"
+repository = "https://github.com/ktauchathuranga/stickee"
+keywords = ["notes", "gtk", "desktop"]
+categories = ["gui"]
 
 [dependencies]
 gtk4 = "0.8"
